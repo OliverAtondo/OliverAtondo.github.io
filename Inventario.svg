@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2 {
+        fill: #1c2360;
+      }
+
+      .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-13, .cls-4, .cls-5, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 73px;
+      }
+
+      .cls-10, .cls-13, .cls-4, .cls-5, .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        font-size: 56px;
+      }
+
+      .cls-6 {
+        fill: #7998ae;
+      }
+
+      .cls-10, .cls-13, .cls-8 {
+        font-size: 45px;
+      }
+
+      .cls-9 {
+        fill: #7e7e7e;
+      }
+
+      .cls-10 {
+        opacity: 0.55;
+      }
+
+      .cls-11 {
+        fill: #ff9191;
+      }
+
+      .cls-12 {
+        fill: #cbcbcb;
+      }
+
+      .cls-14 {
+        fill: rgba(255,255,255,0.22);
+      }
+    </style>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-7" width="1920" height="1080"/>
+    <rect id="Rectángulo_1" data-name="Rectángulo 1" class="cls-2" width="1920" height="184"/>
+    <path id="Rectángulo_1_-_Contorno" data-name="Rectángulo 1 - Contorno" class="cls-3" d="M1,1V183H1919V1H1M0,0H1920V184H0Z"/>
+    <text id="MANAGEMENT" class="cls-4" transform="translate(28 123)"><tspan x="0" y="0">MANAGEMENT</tspan></text>
+    <text id="DOCS" class="cls-5" transform="translate(1394 115)"><tspan x="0" y="0">DOCS</tspan></text>
+    <text id="PROFILE" class="cls-5" transform="translate(1661 115)"><tspan x="0" y="0">PROFILE</tspan></text>
+    <text id="STORAGE" class="cls-5" transform="translate(1039 115)"><tspan x="0" y="0">STORAGE</tspan></text>
+    <text id="CLIENTS" class="cls-5" transform="translate(714 116)"><tspan x="0" y="0">CLIENTS</tspan></text>
+    <rect id="Rectángulo_2" data-name="Rectángulo 2" class="cls-6" width="717" height="896" transform="translate(1203 184)"/>
+    <path id="Rectángulo_2_-_Contorno" data-name="Rectángulo 2 - Contorno" class="cls-3" d="M1,1V895H716V1H1M0,0H717V896H0Z" transform="translate(1203 184)"/>
+    <rect id="Rectángulo_3" data-name="Rectángulo 3" class="cls-7" width="675" height="51" transform="translate(187 204)"/>
+    <path id="Rectángulo_3_-_Contorno" data-name="Rectángulo 3 - Contorno" class="cls-3" d="M1,1V50H674V1H1M0,0H675V51H0Z" transform="translate(187 204)"/>
+    <text id="Buscar:" class="cls-8" transform="translate(28 244)"><tspan x="0" y="0">Buscar:</tspan></text>
+    <rect id="Rectángulo_4" data-name="Rectángulo 4" class="cls-7" width="50" height="50" rx="18" transform="translate(28 279)"/>
+    <path id="Rectángulo_4_-_Contorno" data-name="Rectángulo 4 - Contorno" class="cls-3" d="M18,1A17,17,0,0,0,1,18V32A17,17,0,0,0,18,49H32A17,17,0,0,0,49,32V18A17,17,0,0,0,32,1H18m0-1H32A18,18,0,0,1,50,18V32A18,18,0,0,1,32,50H18A18,18,0,0,1,0,32V18A18,18,0,0,1,18,0Z" transform="translate(28 279)"/>
+    <text id="Maniquíes" class="cls-8" transform="translate(85 323)"><tspan x="0" y="0">Maniquíes</tspan></text>
+    <rect id="Rectángulo_5" data-name="Rectángulo 5" class="cls-7" width="50" height="50" rx="18" transform="translate(341 284)"/>
+    <path id="Rectángulo_5_-_Contorno" data-name="Rectángulo 5 - Contorno" class="cls-3" d="M18,1A17,17,0,0,0,1,18V32A17,17,0,0,0,18,49H32A17,17,0,0,0,49,32V18A17,17,0,0,0,32,1H18m0-1H32A18,18,0,0,1,50,18V32A18,18,0,0,1,32,50H18A18,18,0,0,1,0,32V18A18,18,0,0,1,18,0Z" transform="translate(341 284)"/>
+    <text id="Instrumentos" class="cls-8" transform="translate(398 328)"><tspan x="0" y="0">Instrumentos</tspan></text>
+    <rect id="Rectángulo_6" data-name="Rectángulo 6" class="cls-7" width="252" height="50" transform="translate(931 289)"/>
+    <path id="Rectángulo_6_-_Contorno" data-name="Rectángulo 6 - Contorno" class="cls-3" d="M1,1V49H251V1H1M0,0H252V50H0Z" transform="translate(931 289)"/>
+    <text id="Categoría:" class="cls-8" transform="translate(722 328)"><tspan x="0" y="0">Categoría:</tspan></text>
+    <rect id="Rectángulo_7" data-name="Rectángulo 7" class="cls-7" width="50" height="50" rx="18" transform="translate(899 205)"/>
+    <path id="Rectángulo_7_-_Contorno" data-name="Rectángulo 7 - Contorno" class="cls-3" d="M18,1A17,17,0,0,0,1,18V32A17,17,0,0,0,18,49H32A17,17,0,0,0,49,32V18A17,17,0,0,0,32,1H18m0-1H32A18,18,0,0,1,50,18V32A18,18,0,0,1,32,50H18A18,18,0,0,1,0,32V18A18,18,0,0,1,18,0Z" transform="translate(899 205)"/>
+    <text id="Filtrados" class="cls-8" transform="translate(956 249)"><tspan x="0" y="0">Filtrados</tspan></text>
+    <path id="Polígono_1" data-name="Polígono 1" class="cls-9" d="M12.5,0,25,18H0Z" transform="translate(1173 326) rotate(180)"/>
+    <path id="Polígono_1_-_Contorno" data-name="Polígono 1 - Contorno" class="cls-3" d="M12.5,1.753,1.912,17H23.088L12.5,1.753M12.5,0,25,18H0Z" transform="translate(1173 326) rotate(180)"/>
+    <text id="NO" class="cls-10" transform="translate(1023 331)"><tspan x="0" y="0">NO</tspan></text>
+    <rect id="Rectángulo_8" data-name="Rectángulo 8" class="cls-7" width="1155" height="581" transform="translate(28 371)"/>
+    <path id="Rectángulo_8_-_Contorno" data-name="Rectángulo 8 - Contorno" class="cls-3" d="M1,1V580H1154V1H1M0,0H1155V581H0Z" transform="translate(28 371)"/>
+    <path id="Trazado_1" data-name="Trazado 1" class="cls-2" d="M0,0H363V60H0Z" transform="translate(28 989)"/>
+    <path id="Trazado_1_-_Contorno" data-name="Trazado 1 - Contorno" class="cls-3" d="M1,1V59H362V1H1M0,0H363V60H0Z" transform="translate(28 989)"/>
+    <rect id="Rectángulo_10" data-name="Rectángulo 10" class="cls-11" width="380" height="60" transform="translate(416 989)"/>
+    <path id="Rectángulo_10_-_Contorno" data-name="Rectángulo 10 - Contorno" class="cls-3" d="M1,1V59H379V1H1M0,0H380V60H0Z" transform="translate(416 989)"/>
+    <rect id="Rectángulo_11" data-name="Rectángulo 11" class="cls-7" width="367" height="60" transform="translate(816 989)"/>
+    <path id="Rectángulo_11_-_Contorno" data-name="Rectángulo 11 - Contorno" class="cls-3" d="M1,1V59H366V1H1M0,0H367V60H0Z" transform="translate(816 989)"/>
+    <text id="ID" class="cls-8" transform="translate(63 432)"><tspan x="0" y="0">ID</tspan></text>
+    <text id="Nombre" class="cls-8" transform="translate(173 432)"><tspan x="0" y="0">Nombre</tspan></text>
+    <text id="Categoría" class="cls-8" transform="translate(481 432)"><tspan x="0" y="0">Categoría</tspan></text>
+    <text id="Retorno" class="cls-8" transform="translate(739 432)"><tspan x="0" y="0">Retorno</tspan></text>
+    <text id="Coment." class="cls-8" transform="translate(978 432)"><tspan x="0" y="0">Coment.</tspan></text>
+    <rect id="Rectángulo_12" data-name="Rectángulo 12" class="cls-7" width="35" height="514" transform="translate(1148 438)"/>
+    <path id="Rectángulo_12_-_Contorno" data-name="Rectángulo 12 - Contorno" class="cls-3" d="M1,1V513H34V1H1M0,0H35V514H0Z" transform="translate(1148 438)"/>
+    <rect id="Rectángulo_13" data-name="Rectángulo 13" class="cls-12" width="27" height="95" rx="13.5" transform="translate(1152 443)"/>
+    <path id="Rectángulo_13_-_Contorno" data-name="Rectángulo 13 - Contorno" class="cls-3" d="M13.5,1A12.5,12.5,0,0,0,1,13.5v68a12.5,12.5,0,0,0,21.339,8.839A12.418,12.418,0,0,0,26,81.5v-68A12.5,12.5,0,0,0,13.5,1m0-1A13.5,13.5,0,0,1,27,13.5v68a13.5,13.5,0,0,1-27,0v-68A13.5,13.5,0,0,1,13.5,0Z" transform="translate(1152 443)"/>
+    <text id="Prestar" class="cls-13" transform="translate(141 1038)"><tspan x="0" y="0">Prestar</tspan></text>
+    <text id="No_Prestar" data-name="No Prestar" class="cls-13" transform="translate(501 1038)"><tspan x="0" y="0">No Prestar</tspan></text>
+    <text id="Anexar_a_Folio" data-name="Anexar a Folio" class="cls-8" transform="translate(859 1038)"><tspan x="0" y="0">Anexar a Folio</tspan></text>
+    <text id="Objetos" class="cls-4" transform="translate(1414 266)"><tspan x="0" y="0">Objetos</tspan></text>
+    <rect id="Rectángulo_14" data-name="Rectángulo 14" class="cls-7" width="655" height="373" transform="translate(1234 289)"/>
+    <path id="Rectángulo_14_-_Contorno" data-name="Rectángulo 14 - Contorno" class="cls-3" d="M1,1V372H654V1H1M0,0H655V373H0Z" transform="translate(1234 289)"/>
+    <rect id="Rectángulo_15" data-name="Rectángulo 15" class="cls-14" width="655" height="373" transform="translate(1234 676)"/>
+    <path id="Rectángulo_15_-_Contorno" data-name="Rectángulo 15 - Contorno" class="cls-3" d="M1,1V372H654V1H1M0,0H655V373H0Z" transform="translate(1234 676)"/>
+    <text id="_data_" class="cls-4" transform="translate(1460 879)"><tspan x="0" y="0">_data_</tspan></text>
+    <text id="Imagen" class="cls-8" transform="translate(1480 480)"><tspan x="0" y="0">Imagen</tspan></text>
+  </g>
+</svg>
