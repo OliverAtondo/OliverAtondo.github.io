@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OliverAtondo/OliverAtondo.github.io.git/static/css/main.b9c300ae.css",
+    "main.js": "/OliverAtondo/OliverAtondo.github.io.git/static/js/main.d304b1d5.js",
+    "static/js/787.1309e94e.chunk.js": "/OliverAtondo/OliverAtondo.github.io.git/static/js/787.1309e94e.chunk.js",
+    "index.html": "/OliverAtondo/OliverAtondo.github.io.git/index.html",
+    "main.b9c300ae.css.map": "/OliverAtondo/OliverAtondo.github.io.git/static/css/main.b9c300ae.css.map",
+    "main.d304b1d5.js.map": "/OliverAtondo/OliverAtondo.github.io.git/static/js/main.d304b1d5.js.map",
+    "787.1309e94e.chunk.js.map": "/OliverAtondo/OliverAtondo.github.io.git/static/js/787.1309e94e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c300ae.css",
+    "static/js/main.d304b1d5.js"
+  ]
+}
